@@ -1,10 +1,10 @@
 # Hola, soy Mario!👽
 ### Estudiante de DAM en Institut Poblenou                                                                                                                                      <br>
 
-![https://github.com/Marioxcom](./Logo.png)                                                                                                                                    <br>
+![https://github.com/Marioxcom](./Logo.png)                                                                                                                                     <br>
 
 Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo de la programación.  Futuro Desarrollador de Backend🌠                                           <br><br>
-*Gustos y Hobbies como:*                                                                                                                                                        <br>
+*Gustos y Hobbies:*                                                                                                                                                             <br>
 - Futbol sala⚽
 - Videojuegos🎮
 - Estoicismo 
@@ -17,7 +17,6 @@ Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
