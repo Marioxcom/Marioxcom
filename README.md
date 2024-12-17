@@ -1,7 +1,7 @@
 # Hola, soy Mario!👽
 ### Estudiante de DAM en Institut Poblenou                                                                                                                                      <br>
 
-![https://github.com/Marioxcom](./image.png)                                                                                                                                    <br>
+![https://github.com/Marioxcom](./Logo.png)                                                                                                                                    <br>
 
 Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo de la programación.  Futuro Desarrollador de Backend🌠                                           <br><br>
 *Gustos y Hobbies como:*                                                                                                                                                        <br>
