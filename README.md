@@ -5,13 +5,11 @@
 
 Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo de la programación.  Futuro Desarrollador de Backend🌠                                           <br><br>
 *Gustos y Hobbies:*                                                                                                                                                             <br>
-- Futbol sala⚽
+- Futbol⚽
 - Videojuegos🎮
-- Estoicismo🗿 
 - Geopolítica🌍
-- Música🎵
-- Java🤓
-- Odiar el Lol👍                                                                                                                                                                 <br><br>
+- Electrónica🎵
+- Conocimiento General📚                                                                                                                                                            <br><br>
 
 ## Lo que se:                                                                                                                                                                     <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
