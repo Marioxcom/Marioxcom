@@ -38,7 +38,7 @@ Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo 
 # Redes:🔗
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mario.6.16/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/El4275307228677)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6vy6vvpd0ohktd3t33ly2h5uw)                <br><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-mar%C3%ADn-a60b75291/)                          <br><br>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Marioxcom&show_icons=true&title_color=f69673&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioxcom&layout=compact" />
