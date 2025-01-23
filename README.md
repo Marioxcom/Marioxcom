@@ -1,17 +1,11 @@
-# Hola, soy Mario!👽
-### Estudiante de DAM en Institut Poblenou                                                                                                                                      <br>
+# Hola, me llamo Mario!🦁
+### Estudiante de DAM en Institut Poblenou                                                                                                                                      
 
-![https://github.com/Marioxcom](./Logo.png)                                                                                                                                     <br>
+![https://github.com/Marioxcom](./Logo.png)                                                                                                                                     
+                                                                                                                                                                                                
+Graduado en un Grado Medio de "Sistemas Microinformáticos y Redes" y siete meses de experiencia como técnico informático. 
 
-Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo de la programación.  Futuro Desarrollador de Backend🌠                                           <br><br>
-*Gustos y Hobbies:*                                                                                                                                                             <br>
-- Futbol⚽
-- Videojuegos🎮
-- Geopolítica🌍
-- Electrónica🎵
-- Conocimiento General📚                                                                                                                                                            <br><br>
-
-## Lo que se:                                                                                                                                                                     <br>
+## Conocimientos en:                                                                                                                                                                     
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -20,10 +14,10 @@ Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)                                                                     <br><br>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)                                                                     <br>
 
 
-## Lo que tengo por aprender:<br>
+## Metas de conocimiento:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -35,15 +29,9 @@ Un joven entusiasta de la tecnología, actualmente enfocado en el inmenso mundo 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)                                                   <br>
 
-# Redes:🔗
+# Encuentrame en:🔗
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mario.6.16/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/El4275307228677)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-mar%C3%ADn-a60b75291/)                          <br><br>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Marioxcom&show_icons=true&title_color=f69673&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioxcom&layout=compact" />
-                                                                                                                                                                                   <br>
- <p align="center">
-  <img src="https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif" width="30%" />
-  <img src="https://media1.giphy.com/media/6IanN6Nqj0JFK/giphy.gif?cid=6c09b952hh2l2hp4h5ufcif99suxv508tv5j08hdjrf8dip6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="60%" />
-  </p>                                                                                                                                                                             <br>
+                                                                                                                                                  
