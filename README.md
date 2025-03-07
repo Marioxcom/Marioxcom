@@ -2,8 +2,8 @@
 ### Estudiante de DAM en Institut Poblenou                                                                                                                                      
 
 ![https://github.com/Marioxcom](./Logo.png)                                                                                                                                     
-                                                                                                                                                                                                
-Graduado en un Grado Medio de "Sistemas Microinformáticos y Redes" y siete meses de experiencia como técnico informático. 
+
+Soy Mario, un joven estudiante interesado en las nuevas tendencias tecnológicas sobretodo el sector backend. Mi principal objetivo es abarcar los conocimientos clave para expandir mis ideas e introducirme en el mundo laboral. Tengo un Grado Medio de "Sistemas Microinformáticos y Redes" y siete meses de experiencia como "Técnico Informático" en un colegio primaria en Badalona. Actualmente estudio un Grado Superior de "Desarrollo de Aplicaciones Multiplataforma" con el que aprendo y mejoro en Java☕.
 
 ## Conocimientos en:                                                                                                                                                                     
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
