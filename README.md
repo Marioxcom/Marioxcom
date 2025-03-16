@@ -1,4 +1,4 @@
-# Hola, me llamo Mario!🦁
+# Hello, my name is Mario!🦁
 ### Estudiante de DAM en Institut Poblenou                                                                                                                                      
 
 ![https://github.com/Marioxcom](./Logo.png)                                                                                                                                     
